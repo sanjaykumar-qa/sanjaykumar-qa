@@ -69,8 +69,9 @@ to software quality and automation initiatives.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaykumar-qa&show_icons=true&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjaykumar-qa&theme=dark"/>
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanjaykumar-qa&theme=dark"/>
