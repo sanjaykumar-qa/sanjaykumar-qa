@@ -5,6 +5,12 @@
   <img src="https://img.shields.io/badge/EMAIL-sanjaykumarpalaniravi@gmail.com-red?style=for-the-badge&logo=gmail"/>
   <img src="https://img.shields.io/badge/PHONE-8531833500-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LOCATION-Coimbatore,India-blue?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/sanjay-kumar2005">
+    <img src="https://img.shields.io/badge/LINKEDIN-Sanjaykumar-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/sanjaykumar-qa">
+    <img src="https://img.shields.io/badge/GITHUB-sanjaykumar--qa-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
@@ -71,7 +77,6 @@ to software quality and automation initiatives.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjaykumar-qa&theme=dark"/>
 </p>
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanjaykumar-qa&theme=dark"/>
