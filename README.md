@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hello! I'm Sanjaykumar R</h1>
 <h3 align="center">Software QA Tester | Selenium Automation Tester</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/EMAIL-sanjaykumarpalaniravi@gmail.com-red?style=for-the-badge&logo=gmail"/>
   <img src="https://img.shields.io/badge/PHONE-8531833500-green?style=for-the-badge"/>
@@ -73,11 +72,9 @@ to software quality and automation initiatives.
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjaykumar-qa&theme=dark"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanjaykumar-qa&theme=dark"/>
 </p>
