@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/EMAIL-sanjaykumarpalaniravi@gmail.com-red?style=for-the-badge&logo=gmail"/>
   <img src="https://img.shields.io/badge/PHONE-8531833500-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LOCATION-Coimbatore,India-blue?style=for-the-badge"/>
-  <a href="https://www.linkedin.com/in/sanjay-kumar2005">
+  <a href="https://www.linkedin.com/in/sanjaykumar2005qatester/">
     <img src="https://img.shields.io/badge/LINKEDIN-Sanjaykumar-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/sanjaykumar-qa">
